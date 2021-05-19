@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut 👋
 
 
 **Salut je m'appelle ValRedstone, j'ai 14 ans, je suis développeur de bots discord.**

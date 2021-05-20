@@ -9,6 +9,7 @@ J'ai actuellement pas mal de projets:
 - 📣 J'ai aussi un autre projet de bot discord : [ReactionsBot](https://github.com/ValRedstone/ReactionsBot)
 - 🌱 J'apprends actuellement le JavaScript avec node.js
 - 💬 Posez moi des questions sur mon [discord](https://discord.gg/Vpmee3fcAt).
+- 📫 Pour me contacter sur discord : `</ValRedstone>#6507`
 
 <img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=tokyonight" />
 

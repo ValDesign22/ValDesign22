@@ -11,9 +11,11 @@ J'ai actuellement pas mal de projets:
 - 💬 Posez moi des questions sur mon [discord](https://discord.gg/nDKqMN6cG8).
 - 📫 Pour me contacter sur discord : `</ValRedstone>#6507`
 
-## Les languages que j'utilise :
+## Ce que j'utilise :
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 
 <img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=tokyonight" />
 

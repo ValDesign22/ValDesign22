@@ -5,8 +5,7 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un bot discord [IgeVoid](https://github.com/ValRedstone/IgeVoid) 
-- 📣 J'ai aussi un autre projet de bot discord : [ReactionsBot](https://github.com/ValRedstone/ReactionsBot)
+- 🔭 Je travaille actuellement sur un bot discord [IgeVoid](https://github.com/ValRedstone/IgeVoid).
 - 🌱 J'apprends actuellement le JavaScript avec node.js
 - 💬 Posez moi des questions sur mon [discord](https://discord.gg/nDKqMN6cG8).
 - 📫 Pour me contacter sur discord : `</ValRedstone>#6507`

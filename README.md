@@ -5,10 +5,10 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un bot discord [IgeVoid](https://github.com/ValRedstone/IgeVoid).
-- 🌱 J'apprends actuellement le JavaScript avec node.js
+- 🔭 Je travaille actuellement sur la [IgeCorp](https://github.com/IgeCorp/).
+- 🌱 J'apprends actuellement le Typescript.
 - 💬 Posez moi des questions sur mon [discord](https://discord.gg/nDKqMN6cG8).
-- 📫 Pour me contacter sur discord : `</ValRedstone>#6507`
+- 📫 Pour me contacter sur discord : `ValRedstone#6507`
 
 ## Ce que j'utilise :
 

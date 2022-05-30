@@ -18,6 +18,7 @@ J'ai actuellement pas mal de projets:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 
 <img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=tokyonight" />

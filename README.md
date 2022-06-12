@@ -8,7 +8,7 @@ J'ai actuellement pas mal de projets:
 - 🔭 Je travaille actuellement sur la [IgeCorp](https://github.com/IgeCorp/).
 - 🌱 J'apprends actuellement le Typescript.
 - 💬 Posez moi des questions sur mon [discord](https://discord.gg/nDKqMN6cG8).
-- 📫 Pour me contacter sur discord : `ValRedstone#6507`
+- 📫 Pour me contacter sur discord `ValRedstone#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
 ## Ce que j'utilise :
 

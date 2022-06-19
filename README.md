@@ -1,13 +1,11 @@
 # Salut 👋
 
-
-**Salut je m'appelle ValRedstone, j'ai 15 ans, je suis développeur de bots discord.**
+**Salut je m'appelle ValRedstone, j'ai 15 ans, je suis développeur informatique avec plein de projets en cours.**
 
 J'ai actuellement pas mal de projets:
 
 - 🔭 Je travaille actuellement sur la [IgeCorp](https://github.com/IgeCorp/).
-- 🌱 J'apprends actuellement le Typescript.
-- 💬 Posez moi des questions sur mon [discord](https://discord.gg/nDKqMN6cG8).
+- 🌱 J'apprends actuellement C# et Java.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
 ## Ce que j'utilise :
@@ -23,9 +21,9 @@ J'ai actuellement pas mal de projets:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 
-<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=algolia" />
+<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValRedstone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=algolia" />
 <img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=algolia&layout=compact" />
 

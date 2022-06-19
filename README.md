@@ -22,9 +22,9 @@ J'ai actuellement pas mal de projets:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 
-<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=algolia" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValRedstone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=algolia&layout=compact" />
 

@@ -25,5 +25,5 @@ J'ai actuellement pas mal de projets:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValRedstone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=algolia" />
-<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=algolia&layout=compact" />
+<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=algolia&layout=compact&langs_count=10" />
 

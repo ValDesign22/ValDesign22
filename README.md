@@ -1,6 +1,6 @@
 # Salut 👋
 
-**Salut je m'appelle ValRedstone, j'ai 15 ans, je suis développeur informatique avec plein de projets en cours.**
+**Salut je m'appelle ValDesign, j'ai 15 ans, je suis développeur informatique avec plein de projets en cours.**
 
 J'ai actuellement pas mal de projets:
 

@@ -4,8 +4,8 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur la [IgeCorp](https://github.com/IgeCorp/).
-- 🌱 J'apprends actuellement C# et Java.
+- 🔭 Je travaille actuellement sur un mod minecraft [WardenCraft](https://github.com/ValRedstone/WardenCraft/).
+- 🌱 J'apprends actuellement le C#.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
 ## Ce que j'utilise :

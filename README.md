@@ -4,7 +4,7 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un mod minecraft [WardenCraft](https://github.com/ValRedstone/WardenCraft/) et sur un robot capable de résoudre les [Rubik's Cube](http://github.com/ValRedstone/Rubik-s-Solver).
+- 🔭 Je travaille actuellement sur un mod minecraft [WardenCraft](https://github.com/ValRedstone/WardenCraft/).
 - 🌱 J'apprends actuellement le C#.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 

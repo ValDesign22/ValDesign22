@@ -4,7 +4,7 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un site web [Chatled](https://github.com/ValRedstone/Chatled/).
+- 🔭 Je travaille actuellement sur un site web [Chatled](https://github.com/ValDesign22/Chatled/).
 - 🌱 J'apprends actuellement le C#.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
@@ -24,7 +24,7 @@ J'ai actuellement pas mal de projets:
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ValRedstone&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValRedstone&show_icons=true&hide_border=true&theme=algolia" />
-<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValRedstone&show_icons=true&theme=algolia&layout=compact&langs_count=10" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ValDesign22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="Mes stats sur github" src="https://github-readme-stats.vercel.app/api?username=ValDesign22&show_icons=true&hide_border=true&theme=algolia" />
+<img alt="Les langages que j'utilise le plus" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValDesign22&show_icons=true&theme=algolia&layout=compact&langs_count=10" />
 

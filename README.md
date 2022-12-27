@@ -4,8 +4,8 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un site web [Chatled](https://github.com/ValDesign22/Chatled/).
-- 🌱 J'apprends actuellement le C#.
+- 🔭 Je travaille actuellement sur mon mod minecraft [WardenCraft](https://github.com/ValDesign22/WardenCraft/).
+- 🌱 J'apprends actuellement le Java.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
 ## Ce que j'utilise :

@@ -10,18 +10,18 @@ J'ai actuellement pas mal de projets:
 
 ## Ce que j'utilise :
 <div style="display:flex; flex-direction:row;">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 <br />
 

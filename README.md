@@ -4,7 +4,7 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur mon propre [site web](https://github.com/ValDesign22/valdesign22.github.io/).
+- 🔭 Je travaille actuellement sur un nouveau projet.
 - 🌱 J'apprends actuellement le Java.
 - 📫 Pour me contacter sur discord `ValDesign#6507` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 

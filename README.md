@@ -4,8 +4,8 @@
 
 J'ai actuellement pas mal de projets:
 
-- 🔭 Je travaille actuellement sur un nouveau projet.
-- 🌱 J'apprends actuellement le Java.
+- 🔭 Je travaille actuellement sur [Discord Analytics](https://discordanalytics.xyz).
+- 🌱 J'apprends actuellement le C++.
 - 📫 Pour me contacter sur discord `valdesign` ou par mail <a href="mailto:valdesign.dev@gmail.com">valdesign.dev@gmail.com</a>
 
 ## Mes stats

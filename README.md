@@ -1,6 +1,6 @@
 # Hi 👋
 
-**I'm ValDesign, 18 yo, backend developer.**
+**I'm ValDesign, 19 yo, backend developer.**
 
 - 🔭 Currently working on [Discord Analytics](https://discordanalytics.xyz).
 - 🌱 Learning japanese for fun.
